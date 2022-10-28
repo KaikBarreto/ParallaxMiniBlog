@@ -2,6 +2,8 @@
 
 [Link da aplicação](https://parallaxminiblog.netlify.app/)
 
+## Link do vídeo de apresentação do projeto: https://www.instagram.com/reel/CiYyl1sAGn9/?utm_source=ig_web_copy_link
+
 ## Um blog interativo e leve.
 
   - ### Funcionalidades:
